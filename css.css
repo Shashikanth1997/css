@@ -1,0 +1,19 @@
+ul{
+    margin: 0;
+    padding: 0; 
+   list-style-type:none; 
+   overflow:hidden;
+   background-color: aqua;
+  border: 3px solid red;
+} 
+li{
+    float: left;
+}
+li a {
+   display: block; 
+
+   padding: 14px    ;
+   
+    text-decoration: none; 
+   
+}
